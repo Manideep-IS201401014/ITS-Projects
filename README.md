@@ -7,7 +7,7 @@ Group No.    | Project Name      | Github Repository
 |2.           |                   |                   
 |3.           |Weather telecasting|[Github repository](https://github.com/spyD1803/its)           
 |4.           |                   |                   
-|5.           |*Smartergy*        |[Smartergy Github Repository](https://github.com/ambujtiwari17/smartergy_ITS)               |6.           |*Approprate*       |[Approprate Github Repository](https://github.com/sachinkumar123/approprate
+|5.           |*Smartergy*        |[Smartergy Github Repository](https://github.com/ambujtiwari17/smartergy_ITS)               |6.           |*Approprate*       |[Approprate Github Repository](https://github.com/sachinkumar123/approprate)
 |7.           |*Public Grievance* |[PGAS Github Repository](https://github.com/SUNILSWARNA-IS201401044/Pyhtonanywhere)      
 |8.           |*Critique*         |[Critique Github Repository](https://github.com/chrizandr/ITS_feedback)                   
 |9.           |                   |
