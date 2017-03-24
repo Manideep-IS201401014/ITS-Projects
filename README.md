@@ -1,7 +1,7 @@
 # ITS-Projects
 Standard repository for IIITS UG3 (2014-2018) students to push their projects.
 
-Group No. | Project Name | Github Repository
+Group No.    | Project Name   | Github Repository
 -------------|:--------------:|:------------------:
 1.           |Air & Water Quality|[Github repository](https://github.com/Jagadeesh-Ponduru/its)           
 2.           |                   |                   
